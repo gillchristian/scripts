@@ -1,6 +1,6 @@
 <h1 align="center">scripts</h1>
 
-A set of scripts I've written (and used provably only once) to do tasks like
+A set of scripts I've written (and used probably only once) to do tasks like
 finding all ocurrences of different methods of a library in a project.
 
 ## Scripts

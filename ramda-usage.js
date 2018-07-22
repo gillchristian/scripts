@@ -6,8 +6,7 @@ const writeFile = promisify(fs.writeFile);
 
 const args = process.argv.slice(2);
 
-const entry = args[0];
-const output = args[1];
+const [entry, output] = args[0];
 
 if (args.includes('-h') || args.includes('--help')) {
   showHelp();

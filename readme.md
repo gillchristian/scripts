@@ -5,7 +5,7 @@ finding all ocurrences of different methods of a library in a project.
 
 ## Scripts
 
-- `ramda-usage.js`:
+### `ramda-usage.js`
 
 Count all Ramda methods used in a project (only the ones of the form `R.*`).
 
@@ -14,7 +14,7 @@ $ node ramda-usage --help
 $ node ramda-usage -h
 ```
 
-- `trim.js`
+### `trim.js`
 
 Trims all whitespace at the end of every line in a file.
 
